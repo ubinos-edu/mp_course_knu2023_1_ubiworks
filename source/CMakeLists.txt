@@ -10,7 +10,7 @@ include("${CMAKE_CURRENT_LIST_DIR}/../library/ubinos/config/common.cmake")
 
 ubinos_project_begin()
 
-project(mp_course_knu2023_1_ubiworks)
+project(ubiworks)
 
 ubinos_project_end()
 
