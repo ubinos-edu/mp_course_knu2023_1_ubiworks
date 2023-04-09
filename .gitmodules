@@ -1,0 +1,6 @@
+[submodule "library/ubinos"]
+	path = library/ubinos
+	url = https://github.com/ubinos/ubinos.git
+[submodule "library/mp_course_examples"]
+	path = library/mp_course_examples
+	url = https://github.com/ubinos-edu/mp_course_examples.git
